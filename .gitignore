@@ -1,0 +1,6 @@
+*.pyc
+*.pkl
+results/*
+# pixi environments
+.pixi
+*.egg-info
